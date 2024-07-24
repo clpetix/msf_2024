@@ -6,6 +6,7 @@ Unit and regression test for the msf_2024 package.
 import sys
 
 import pytest
+import numpy
 
 import msf_2024
 
