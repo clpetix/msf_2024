@@ -6,6 +6,9 @@
 Welcome to msf_2024's documentation!
 =========================================================
 
+msf_2024 is a Python package for making waffles.
+It has functions for reading `xyz` & `pdb` formats, 
+
 .. grid:: 1 1 2 2
 
     .. grid-item-card:: Getting Started
